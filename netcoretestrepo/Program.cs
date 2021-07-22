@@ -6,7 +6,7 @@ namespace netcoretestrepo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! aqui estoy");
+            Console.WriteLine("Hello World! aqui estoy otra vez");
         }
     }
 }
